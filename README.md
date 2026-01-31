@@ -40,48 +40,6 @@ I'm a developer passionate about building tools that make life easier. From know
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kadaliao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadaliao&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com/?user=kadaliao&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-### [knowledge-exporter](https://github.com/kadaliao/knowledge-exporter) ⭐ 8
-Export content from knowledge platforms like GeekTime, Dedao, etc.
-- 🐍 Python
-- 📚 Knowledge Management
-- 🔧 Content Export Tool
-
-### [polymarket-trader](https://github.com/kadaliao/polymarket-trader)
-AI CLI wrapper for Polymarket trading
-- 🤖 AI-Powered
-- 💹 Trading Automation
-- 🐍 Python
-
-### [LetItBe](https://github.com/kadaliao/LetItBe)
-Pause without guilt - A macOS productivity app
-- 🍎 Swift
-- ⏸️ Productivity
-- 🧘 Mindfulness
-
-### [clashctl](https://github.com/kadaliao/clashctl)
-Clash configuration management tool
-- 🦀 Rust
-- 🌐 Network Tools
-- ⚙️ Configuration Management
-
----
-
 ## 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kadaliao&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
