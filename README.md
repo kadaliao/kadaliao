@@ -44,11 +44,11 @@ I'm a developer passionate about building tools that make life easier. From know
 
 <div align="center">
 
-![Kada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kadaliao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=kadaliao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kadaliao&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadaliao&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kadaliao&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=kadaliao&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -84,7 +84,7 @@ Clash configuration management tool
 
 ## 📈 Activity Graph
 
-[![Kada's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kadaliao&theme=tokyo-night&hide_border=true)](https://github.com/kadaliao)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kadaliao&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 
 ---
 
